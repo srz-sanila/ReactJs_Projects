@@ -1,0 +1,44 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "c_name": "AM pvt",
+      "c_ceo": "Amal",
+      "c_founded": 2010,
+      "c_head": "Kochi",
+      "c_empNo": 12
+    },
+    {
+      "id": 3,
+      "c_name": "AM pvt",
+      "c_ceo": "Amal",
+      "c_founded": 2020,
+      "c_head": "Kochi",
+      "c_empNo": 32
+    },
+    {
+      "c_name": "MM PVT",
+      "c_ceo": "Minnu",
+      "c_founded": "2013",
+      "c_head": "Kottayam",
+      "c_empNo": "50",
+      "id": 4
+    },
+    {
+      "c_name": "sa",
+      "c_ceo": "Minnu",
+      "c_founded": "2021",
+      "c_head": "Kottayam",
+      "c_empNo": "78",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "c_name": "sa",
+      "c_ceo": "Minnu",
+      "c_founded": "2011",
+      "c_head": "kannur",
+      "c_empNo": "20"
+    }
+  ]
+}
